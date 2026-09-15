@@ -1,0 +1,9 @@
+tensorflow==2.21.0
+numpy
+opencv-python
+flask
+pillow
+matplotlib
+scikit-learn
+gunicorn
+flask-cors
